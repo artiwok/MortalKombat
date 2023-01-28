@@ -1,8 +1,8 @@
 # MortalKombat
 
 ##Stack of Technologies:
-HTML
-CSS
-Normalize
-jQuery
-Fancybox (jQuery)
+###HTML
+###CSS
+###Normalize
+###jQuery
+###Fancybox (jQuery)
